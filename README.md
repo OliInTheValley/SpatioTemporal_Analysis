@@ -2,6 +2,13 @@
 This GitHub repository documents the core analyses of a spatiotemporal RNA-seq study on mouse brain aging, including 1,076 samples from 15 regions spanning 7 ages and two rejuvenating interventions. 
 The analyses were performed within an R 3.6 enviornment.
 
+We recommend to re-create the directory setup provided here, consisting of:   
+1. Rscripts - a folder where the core scripts are stored
+2. input_data - a folder containing raw counttables, metadata etc. We provide here only the bulkseq data, as single-cell/spatial data exceed the size limit
+3. R_objects - a folder where processed R objects, such as Deseq2 objects are stored so they can be loaded again by later analyses
+4. Signature_repository - a folder where we store VISION score objects in the form of R.bin files that can be loaded when needed
+5. Output_tables - at some points in the scripts, we create e.g. lists of genes. These sould be stored here  
+
 
 # Sofware enviornment
 R version 3.6.3 (2020-02-29)
