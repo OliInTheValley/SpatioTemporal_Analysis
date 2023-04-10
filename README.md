@@ -1,6 +1,7 @@
-# Spatio-temporal brain aging map analysis
-This GitHub repository documents the core analyses of a spatiotemporal RNA-seq study on mouse brain aging, including 1,076 samples from 15 regions spanning 7 ages and two rejuvenating interventions. 
-The analyses were performed within an R 3.6 enviornment.
+# Spatio-temporal brain aging analysis
+This GitHub repository documents the core analyses of a spatiotemporal RNA-seq study on mouse brain aging, including 1,076 samples from 15 regions spanning 7 ages and two rejuvenating interventions.  
+If an interactive version of the data is preferred, please visit our Shiny-App: https://twc-stanford.shinyapps.io/spatiotemporal_brain_map/ 
+
 
 We recommend to re-create the directory setup provided here, consisting of:   
 1. Rscripts - a folder where the core scripts are stored
@@ -9,11 +10,16 @@ We recommend to re-create the directory setup provided here, consisting of:
 4. Signature_repository - a folder where we store VISION score objects in the form of R.bin files that can be loaded when needed
 5. Output_tables - at some points in the scripts, we create e.g. lists of genes. These sould be stored here  
 
+## Citation
+If using data or scripts of this study, please cite the following pre-print:  
+A spatiotemporal map of the aging mouse brain reveals white matter tracts as vulnerable foci. Oliver Hahn, Aulden G Foltz, Micaiah Atkins, Blen Kedir, Patricia Moran-Losada, Ian H Guldner, Christy Munson, Fabian Kern, Róbert Pálovics, Nannan Lu, Achint Kaur, Jacob Hull, John R Huguenard, Andreas Keller, Benoit Lehallier, Tony Wyss-Coray. bioRxiv. doi: https://doi.org/10.1101/2022.09.18.508419
 
-# Data availability  
+## Data availability  
 The sequencing datasets analyzed during the current study are available in the Gene Expression Omnibus repository under accession numbers GSE212336, GSE212576, GSE212903, GSE227689 and GSE227515.  
 
-# Sofware enviornment
+## Sofware enviornment
+The analyses were performed within an R 3.6 enviornment.  
+  
 R version 3.6.3 (2020-02-29)
 Platform: x86_64-apple-darwin15.6.0 (64-bit)
 Running under: OS X  13.2
