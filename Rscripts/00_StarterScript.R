@@ -1,3 +1,7 @@
+#This script loads required libraries that are used in the following analyses, as well as a few helper functions
+#We recommend to run this script before running any of the other scripts to have all the relevant packages at hand
+
+
 library(readr)
 library(DESeq2)
 library(tidyr)
