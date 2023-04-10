@@ -4,7 +4,8 @@ library(SeuratData)
 setwd('/oak/stanford/scg/lab_twc/OHahn/RNA-seq/Documentation/2023_03_22_CAbulk_github/')
 
 #We'll have to load the following datasets
-#The coronal section needs to be downloaded from 10X diretclyt
+#The coronal section needs to be downloaded from 10X directly: https://www.10xgenomics.com/resources/datasets/mouse-brain-section-coronal-1-standard-1-0-0
+#Once loaded, the dataset should be stored in the input_data folder
 brain_Coronal <- Load10X_Spatial("input_data/Visium_Reference/Mouse_coronal_unstained/filtered_feature_bc_matrix_Coronal_unstained/", filename = 'V1_Adult_Mouse_Brain_filtered_feature_bc_matrix.h5')
 
 #The saggital dataset is already available through the SeueratData package
