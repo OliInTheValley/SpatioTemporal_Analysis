@@ -7,7 +7,7 @@ library(DESeq2)
 ###Start
 #Load dataset from raw counttable
 library(readr)
-BulkSeq_Aging_Counttable <- read_delim("input_data/BulkSeq_Aging_Counttable.txt", 
+BulkSeq_Aging_Counttable <- read_delim("input_data/BulkSeq_Aging/BulkSeq_Aging_Counttable.txt", 
                                        delim = "\t", escape_double = FALSE, 
                                        trim_ws = TRUE)
 BulkSeq_Aging_Counttable <- as.data.frame(BulkSeq_Aging_Counttable)
@@ -17,7 +17,7 @@ BulkSeq_Aging_Counttable[1] <- NULL
 #Load meta data and create an experimentDesign frame that fits Deseq2's design
 experimentDesign  <- data.frame(row.names = colnames(BulkSeq_Aging_Counttable)) #Create dataframe with sampleIDs as rownames
 
-BulkSeq_Aging_metadata <- read_delim("input_data/BulkSeq_Aging_metadata.txt", 
+BulkSeq_Aging_metadata <- read_delim("input_data/BulkSeq_Aging/BulkSeq_Aging_metadata.txt", 
                                      delim = "\t", escape_double = FALSE, 
                                      trim_ws = TRUE)
 BulkSeq_Aging_metadata <- as.data.frame(BulkSeq_Aging_metadata)
