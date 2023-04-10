@@ -12,7 +12,8 @@ We recommend to re-create the directory setup provided here, consisting of:
 
 ## Citation
 If using data or scripts of this study, please cite the following pre-print:  
-A spatiotemporal map of the aging mouse brain reveals white matter tracts as vulnerable foci. Oliver Hahn, Aulden G Foltz, Micaiah Atkins, Blen Kedir, Patricia Moran-Losada, Ian H Guldner, Christy Munson, Fabian Kern, Róbert Pálovics, Nannan Lu, Achint Kaur, Jacob Hull, John R Huguenard, Andreas Keller, Benoit Lehallier, Tony Wyss-Coray. bioRxiv. doi: https://doi.org/10.1101/2022.09.18.508419
+A spatiotemporal map of the aging mouse brain reveals white matter tracts as vulnerable foci.  
+Oliver Hahn, Aulden G Foltz, Micaiah Atkins, Blen Kedir, Patricia Moran-Losada, Ian H Guldner, Christy Munson, Fabian Kern, Róbert Pálovics, Nannan Lu, Achint Kaur, Jacob Hull, John R Huguenard, Andreas Keller, Benoit Lehallier, Tony Wyss-Coray. bioRxiv. doi: https://doi.org/10.1101/2022.09.18.508419
 
 ## Data availability  
 The sequencing datasets analyzed during the current study are available in the Gene Expression Omnibus repository under accession numbers GSE212336, GSE212576, GSE212903, GSE227689 and GSE227515.  
