@@ -35,4 +35,4 @@ Seurat_3.1.2
 SummarizedExperiment_1.16.1
 tidyr_1.2.0
 Vennerable_3.1.0.9000
-VISION_3.0.0![image](https://user-images.githubusercontent.com/57411172/230805187-a255e6de-6a5e-4d50-9667-09e191982363.png)
+VISION_3.0.0
