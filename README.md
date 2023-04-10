@@ -10,6 +10,9 @@ We recommend to re-create the directory setup provided here, consisting of:
 5. Output_tables - at some points in the scripts, we create e.g. lists of genes. These sould be stored here  
 
 
+# Data availability  
+The sequencing datasets analyzed during the current study are available in the Gene Expression Omnibus repository under accession numbers GSE212336, GSE212576, GSE212903, GSE227689 and GSE227515.  
+
 # Sofware enviornment
 R version 3.6.3 (2020-02-29)
 Platform: x86_64-apple-darwin15.6.0 (64-bit)
