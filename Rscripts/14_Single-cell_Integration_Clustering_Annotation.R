@@ -79,23 +79,23 @@ for (sample_to_analyze in names(Nuc_Seq_list) ) {
   ####Now, we'll demultiplex the single-cell object based on expression of sex-specific genes. 
   #This step is only necessary for the caudate putamen and hippocampus aging nuc-seq data
   #To this end, we perform a standard normalization 
-  #sc_RNAseq_object <- NormalizeData(sc_RNAseq_object)
-  #sc_RNAseq_object <- ScaleData(sc_RNAseq_object, features = rownames(sc_RNAseq_object))
+  sc_RNAseq_object <- NormalizeData(sc_RNAseq_object)
+  sc_RNAseq_object <- ScaleData(sc_RNAseq_object, features = rownames(sc_RNAseq_object))
   
   #Calculate the percentage of female-specific genes
-  #sc_RNAseq_object[["percent.female"]] <- PercentageFeatureSet(sc_RNAseq_object, pattern = "Xist|Tsix")
+  sc_RNAseq_object[["percent.female"]] <- PercentageFeatureSet(sc_RNAseq_object, pattern = "Xist|Tsix")
   ##Calculate the percentage of male-specific genes
   sc_RNAseq_object[["percent.male"]] <- PercentageFeatureSet(sc_RNAseq_object, pattern = "Ddx3y|Eif2s3y|Uty|Kdm5d")
-  #Calculate the log2Foldchange between the % of female to male reads
-  #sc_RNAseq_object[["log2FtM"]] <- log2(sc_RNAseq_object[["percent.female"]]/sc_RNAseq_object[["percent.male"]])
+  Calculate the log2Foldchange between the % of female to male reads
+  sc_RNAseq_object[["log2FtM"]] <- log2(sc_RNAseq_object[["percent.female"]]/sc_RNAseq_object[["percent.male"]])
   #Now we assign each cell if it's derived from the male or female mouse based on a +1/-1 log2FC cutoff. Everything in between is labelled 'unclear'
-  #sc_RNAseq_object[['type']] <- ifelse(is.na(sc_RNAseq_object@meta.data$log2FtM), 'unclear', ifelse(sc_RNAseq_object@meta.data$log2FtM > 1, 'female', ifelse(sc_RNAseq_object@meta.data$log2FtM < -1, 'male', 'unclear')))
+  sc_RNAseq_object[['type']] <- ifelse(is.na(sc_RNAseq_object@meta.data$log2FtM), 'unclear', ifelse(sc_RNAseq_object@meta.data$log2FtM > 1, 'female', ifelse(sc_RNAseq_object@meta.data$log2FtM < -1, 'male', 'unclear')))
   #We create a little diagnostic plot
-  #myplot <- ggplot(data=sc_RNAseq_object@meta.data, mapping=aes(x=nCount_RNA, y=log2FtM, color=type)) + geom_point()
-  #print(myplot)
-  #print(table(sc_RNAseq_object[['type']]))
+  myplot <- ggplot(data=sc_RNAseq_object@meta.data, mapping=aes(x=nCount_RNA, y=log2FtM, color=type)) + geom_point()
+  print(myplot)
+  print(table(sc_RNAseq_object[['type']]))
   #We then filter out all 'unclear' cells
-  #sc_RNAseq_object <- subset(sc_RNAseq_object, subset= type!='unclear')
+  sc_RNAseq_object <- subset(sc_RNAseq_object, subset= type!='unclear')
   sc_RNAseq_object[['sampleID_sex']] <- paste(sc_RNAseq_object$sampleID, sc_RNAseq_object$type, sep = '_')
   
   #Now we assign the object back into the main list 
