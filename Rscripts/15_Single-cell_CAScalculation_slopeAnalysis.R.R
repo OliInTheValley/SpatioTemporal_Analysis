@@ -1,14 +1,3 @@
-myPaths <- .libPaths()
-myPaths <- c(myPaths, '/home/olihahn/R/x86_64-pc-linux-gnu-library/3.6')
-.libPaths(myPaths)
-
-library(Seurat)
-library(SeuratData)
-library(ggplot2)
-library(patchwork)
-library(dplyr)
-library(VISION)
-
 ###Having established that the CAS is changing with a region-specific magnitude in the bulkseq dataset, we now want to utilize single-cell/nuc datasets to find out
 #which cell type(s) might be the one expressing the CAS and could therefore be 'responsible' for the increase on the bulk level
 ###To this wen, we will now load the signatures and calucalte scores for each cell in the single-cell transcriptome, using the signature library we generated before
