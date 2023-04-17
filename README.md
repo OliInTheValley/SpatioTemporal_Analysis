@@ -58,4 +58,4 @@ tidyr_1.2.0
 umap_0.2.8.0  
 Vennerable_3.1.0.9000  
 VISION_3.0.0  
-zoo_1.8-9  ![image](https://user-images.githubusercontent.com/57411172/232423630-22332a55-b01a-4321-9395-ca4bf91ea963.png)
+zoo_1.8-9  
