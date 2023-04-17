@@ -36,13 +36,17 @@ dplyr_1.0.9
 emmeans_1.7.5  
 GenomeInfoDb_1.22.1  
 GenomicRanges_1.38.0  
+GEOquery_2.54.1  
 ggplot2_3.3.6  
 ggrepel_0.9.1  
 gplots_3.1.3  
 IRanges_2.20.2  
+limma_3.42.2  
 lsmeans_2.30-0  
 matrixStats_0.62.0  
 pheatmap_1.0.12  
+plyr_1.8.7  
+RColorBrewer_1.1-3  
 readr_2.1.2  
 reshape2_1.4.4  
 rstatix_0.7.0  
@@ -51,5 +55,7 @@ scales_1.2.0
 Seurat_3.1.2  
 SummarizedExperiment_1.16.1  
 tidyr_1.2.0  
+umap_0.2.8.0  
 Vennerable_3.1.0.9000  
 VISION_3.0.0  
+zoo_1.8-9  ![image](https://user-images.githubusercontent.com/57411172/232423630-22332a55-b01a-4321-9395-ca4bf91ea963.png)
