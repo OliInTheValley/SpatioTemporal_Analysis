@@ -245,7 +245,7 @@ scRNA.merge.integrated@meta.data$cell_type_age <-
         sep = '-'
   )
 
-#We set the default assay to 'spatial
+#We set the default assay to 'RNA'
 DefaultAssay(scRNA.merge.integrated) <- 'RNA'
 #and the default idents to our newly-set up cell_type_age 
 Idents(scRNA.merge.integrated) <- 'cell_type_age'
@@ -299,7 +299,7 @@ for (cell_type_to_test in unique(scRNA.merge.integrated$cell_type)) {
   resSig <- subset(diffmarkers_table, p_val_adj < 0.05)
   results_list_cell_typeLevel[[comparison]]$ressig <- resSig
   
-  #We store this temporary resultslist in the main list we created before starting the loop and save this before starting with the next tissue/cell_type
+  #We store this temporary resultslist in the main list we created before starting the loop and save this before starting with the next cell_type
   results_list_scRNA.merge.integrated[[as.character(cell_type_to_test)]] <- results_list_cell_typeLevel
   save(results_list_scRNA.merge.integrated, 
        file='R_objects/Nucseq_Hip_AgingDEGs_results.bin')
