@@ -1,0 +1,999 @@
+Disease	Gene	Category
+Alzheimer	Abca1	Neurological
+Alzheimer	Abca7	Neurological
+Alzheimer	Abi3	Neurological
+Alzheimer	AC074212.3	Neurological
+Alzheimer	Ace	Neurological
+Alzheimer	Acp2	Neurological
+Alzheimer	Acsl6	Neurological
+Alzheimer	Adam10	Neurological
+Alzheimer	Adamts1	Neurological
+Alzheimer	Adamts20	Neurological
+Alzheimer	Adamts4	Neurological
+Alzheimer	Adamts9	Neurological
+Alzheimer	Aff1	Neurological
+Alzheimer	Ahnak	Neurological
+Alzheimer	AK128216	Neurological
+Alzheimer	Akap12	Neurological
+Alzheimer	Aldh4a1	Neurological
+Alzheimer	Alpk2	Neurological
+Alzheimer	Ankrd31	Neurological
+Alzheimer	Ankrd55	Neurological
+Alzheimer	Ano4	Neurological
+Alzheimer	Antxr1	Neurological
+Alzheimer	Ap2a2	Neurological
+Alzheimer	Aph1c	Neurological
+Alzheimer	Apob	Neurological
+Alzheimer	Apoc1	Neurological
+Alzheimer	APOC1P1	Neurological
+Alzheimer	Apoc2	Neurological
+Alzheimer	Apoe	Neurological
+Alzheimer	Arhgap20	Neurological
+Alzheimer	Arid1b	Neurological
+Alzheimer	Atm	Neurological
+Alzheimer	Atp5c1	Neurological
+Alzheimer	Atp5j	Neurological
+Alzheimer	Atxn7l1	Neurological
+Alzheimer	Bcam	Neurological
+Alzheimer	Bcar3	Neurological
+Alzheimer	Bcas3	Neurological
+Alzheimer	Bche	Neurological
+Alzheimer	Bcl3	Neurological
+Alzheimer	Bin1	Neurological
+Alzheimer	Bmper	Neurological
+Alzheimer	Bsg	Neurological
+Alzheimer	TSPOAP1-AS1	Neurological
+Alzheimer	Tspoap1	Neurological
+Alzheimer	Bzw2	Neurological
+Alzheimer	1700029I15Rik	Neurological
+Alzheimer	1500009L16Rik	Neurological
+Alzheimer	Hid1	Neurological
+Alzheimer	Epop	Neurological
+Alzheimer	Mtres1	Neurological
+Alzheimer	C9orf92	Neurological
+Alzheimer	Cacna1g	Neurological
+Alzheimer	Cacna2d3	Neurological
+Alzheimer	Cadm2	Neurological
+Alzheimer	Camk4	Neurological
+Alzheimer	Cass4	Neurological
+Alzheimer	Catsperb	Neurological
+Alzheimer	Cblc	Neurological
+Alzheimer	Ccdc116	Neurological
+Alzheimer	Ccdc134	Neurological
+Alzheimer	Ccdc85c	Neurological
+Alzheimer	Ccz1	Neurological
+Alzheimer	Cd2ap	Neurological
+Alzheimer	CD33	Neurological
+Alzheimer	Cdc42se2	Neurological
+Alzheimer	Gm9048	Neurological
+Alzheimer	Cdkal1	Neurological
+Alzheimer	Cdon	Neurological
+Alzheimer	Ceacam16	Neurological
+Alzheimer	Ceacam20	Neurological
+Alzheimer	CEACAM22P	Neurological
+Alzheimer	Celf1	Neurological
+Alzheimer	Chrna2	Neurological
+Alzheimer	Chst1	Neurological
+Alzheimer	Ckm	Neurological
+Alzheimer	Clasrp	Neurological
+Alzheimer	Clmn	Neurological
+Alzheimer	Clnk	Neurological
+Alzheimer	Clptm1	Neurological
+Alzheimer	Clu	Neurological
+Alzheimer	Cntnap2	Neurological
+Alzheimer	Cps1	Neurological
+Alzheimer	Cr1l	Neurological
+Alzheimer	Cradd	Neurological
+Alzheimer	Crhr1	Neurological
+Alzheimer	Csmd1	Neurological
+Alzheimer	CTB-171A8.1	Neurological
+Alzheimer	CTB-179K24.3	Neurological
+Alzheimer	Ctnna2	Neurological
+Alzheimer	Celf2	Neurological
+Alzheimer	Gm10053	Neurological
+Alzheimer	D21S2088E	Neurological
+Alzheimer	Dab1	Neurological
+Alzheimer	Dapl1	Neurological
+Alzheimer	Dchs2	Neurological
+Alzheimer	Ddx18	Neurological
+Alzheimer	Disc1	Neurological
+Alzheimer	DKFZP434H0512	Neurological
+Alzheimer	Dmxl1	Neurological
+Alzheimer	Dst	Neurological
+Alzheimer	Echdc3	Neurological
+Alzheimer	Edil3	Neurological
+Alzheimer	Efna5	Neurological
+Alzheimer	Egln3	Neurological
+Alzheimer	Elmo1	Neurological
+Alzheimer	Epc2	Neurological
+Alzheimer	Epha1	Neurological
+Alzheimer	Exoc4	Neurological
+Alzheimer	Pced1b	Neurological
+Alzheimer	FAM172BP	Neurological
+Alzheimer	Fam20c	Neurological
+Alzheimer	Fancd2	Neurological
+Alzheimer	Farp1	Neurological
+Alzheimer	Fat1	Neurological
+Alzheimer	Fbxl13	Neurological
+Alzheimer	Fbxl7	Neurological
+Alzheimer	Fbxo40	Neurological
+Alzheimer	Fermt2	Neurological
+Alzheimer	Fgf10	Neurological
+Alzheimer	LINC01184	Neurological
+Alzheimer	C5orf64	Neurological
+Alzheimer	FLJ45256	Neurological
+Alzheimer	Fmn2	Neurological
+Alzheimer	Fnip1	Neurological
+Alzheimer	Foxe1	Neurological
+Alzheimer	Frmd4a	Neurological
+Alzheimer	Gab2	Neurological
+Alzheimer	Gabrg3	Neurological
+Alzheimer	GAPDHP15	Neurological
+Alzheimer	Glis3	Neurological
+Alzheimer	Gpc6	Neurological
+Alzheimer	Grin2b	Neurological
+Alzheimer	Grin3a	Neurological
+Alzheimer	Hbegf	Neurological
+Alzheimer	Hecw1	Neurological
+Alzheimer	Hesx1	Neurological
+Alzheimer	H2-Ea	Neurological
+Alzheimer	H2-Eb2	Neurological
+Alzheimer	Hrk	Neurological
+Alzheimer	Hs3st1	Neurological
+Alzheimer	Htr7	Neurological
+Alzheimer	IGH	Neurological
+Alzheimer	Igsf23	Neurological
+Alzheimer	Il19	Neurological
+Alzheimer	Il21	Neurological
+Alzheimer	Inpp5d	Neurological
+Alzheimer	INPPD5	Neurological
+Alzheimer	Iqck	Neurological
+Alzheimer	Irf6	Neurological
+Alzheimer	Isyna1	Neurological
+Alzheimer	Itga1	Neurological
+Alzheimer	Itga6	Neurological
+Alzheimer	Kansl1	Neurological
+Alzheimer	Kat8	Neurological
+Alzheimer	Kbtbd8	Neurological
+Alzheimer	Kcnn2	Neurological
+Alzheimer	Kcnn3	Neurological
+Alzheimer	Kcnv2	Neurological
+Alzheimer	Kctd2	Neurological
+Alzheimer	Kir3dl1	Neurological
+Alzheimer	Klhl4	Neurological
+Alzheimer	Lcorl	Neurological
+Alzheimer	Lemd2	Neurological
+Alzheimer	Lhx1	Neurological
+Alzheimer	LILRA3	Neurological
+Alzheimer	Lims2	Neurological
+Alzheimer	LINC00158	Neurological
+Alzheimer	LINC00290	Neurological
+Alzheimer	LINC00515	Neurological
+Alzheimer	LINC00634	Neurological
+Alzheimer	LINC00692	Neurological
+Alzheimer	LINC01060	Neurological
+Alzheimer	Lingo2	Neurological
+Alzheimer	Lipc	Neurological
+Alzheimer	Lipg	Neurological
+Alzheimer	LOC100129500	Neurological
+Alzheimer	LOC101928519	Neurological
+Alzheimer	LOC105373605	Neurological
+Alzheimer	LOC257396	Neurological
+Alzheimer	LOC390956	Neurological
+Alzheimer	LOC390958	Neurological
+Alzheimer	Luzp2	Neurological
+Alzheimer	Macrod2	Neurological
+Alzheimer	Map4k4	Neurological
+Alzheimer	Mapk7	Neurological
+Alzheimer	Mapt	Neurological
+Alzheimer	Mark4	Neurological
+Alzheimer	Mef2c	Neurological
+Alzheimer	Megf10	Neurological
+Alzheimer	Mir142	Neurological
+Alzheimer	MIR302F	Neurological
+Alzheimer	MIR4432	Neurological
+Alzheimer	MIR548AB	Neurological
+Alzheimer	MIR5582	Neurological
+Alzheimer	Mki67	Neurological
+Alzheimer	Map3k21	Neurological
+Alzheimer	Mmp3	Neurological
+Alzheimer	Mobp	Neurological
+Alzheimer	Mpzl1	Neurological
+Alzheimer	MS4	Neurological
+Alzheimer	MS4A	Neurological
+Alzheimer	Ms4a2	Neurological
+Alzheimer	Ms4a3	Neurological
+Alzheimer	Ms4a4d	Neurological
+Alzheimer	Ms4a6d	Neurological
+Alzheimer	Msra	Neurological
+Alzheimer	Mthfd1l	Neurological
+Alzheimer	Myo16	Neurological
+Alzheimer	Nars2	Neurological
+Alzheimer	Nckap5	Neurological
+Alzheimer	Ncs1	Neurological
+Alzheimer	NCTIN2	Neurological
+Alzheimer	Ndufaf6	Neurological
+Alzheimer	Negr1	Neurological
+Alzheimer	Nfib	Neurological
+Alzheimer	Nfic	Neurological
+Alzheimer	Nhlrc3	Neurological
+Alzheimer	Nkain2	Neurological
+Alzheimer	Nme8	Neurological
+Alzheimer	Npvf	Neurological
+Alzheimer	Nr3c2	Neurological
+Alzheimer	Nrsn1	Neurological
+Alzheimer	Oard1	Neurological
+Alzheimer	OFCC1	Neurological
+Alzheimer	OR4S1	Neurological
+Alzheimer	Osbpl6	Neurological
+Alzheimer	Osbpl7	Neurological
+Alzheimer	Parvb	Neurological
+Alzheimer	Pax2	Neurological
+Alzheimer	Pax5	Neurological
+Alzheimer	Pcdh11x	Neurological
+Alzheimer	Pcdh7	Neurological
+Alzheimer	Pcnx	Neurological
+Alzheimer	Pcsk5	Neurological
+Alzheimer	Pde1a	Neurological
+Alzheimer	Pde7b	Neurological
+Alzheimer	Pex6	Neurological
+Alzheimer	Pfdn1	Neurological
+Alzheimer	PGAM5P1	Neurological
+Alzheimer	PGBD3P4	Neurological
+Alzheimer	Picalm	Neurological
+Alzheimer	Pik3r1	Neurological
+Alzheimer	Pknox2	Neurological
+Alzheimer	Plcg2	Neurological
+Alzheimer	Plekhg1	Neurological
+Alzheimer	PMS2CL	Neurological
+Multiple sclerosis	Abi3bp	Neurological
+Multiple sclerosis	Acp5	Neurological
+Multiple sclerosis	Adcy3	Neurological
+Multiple sclerosis	Aff1	Neurological
+Multiple sclerosis	Agap2	Neurological
+Multiple sclerosis	Agbl2	Neurological
+Multiple sclerosis	Ahi1	Neurological
+Multiple sclerosis	AK127238	Neurological
+Multiple sclerosis	Akap13	Neurological
+Multiple sclerosis	Aldh1l1	Neurological
+Multiple sclerosis	Alpk2	Neurological
+Multiple sclerosis	ANKRD36BP2	Neurological
+Multiple sclerosis	Ankrd55	Neurological
+Multiple sclerosis	Apoa5	Neurological
+Multiple sclerosis	Arhgap26	Neurological
+Multiple sclerosis	Arhgef10	Neurological
+Multiple sclerosis	Arhgef3	Neurological
+Multiple sclerosis	Arl11	Neurological
+Multiple sclerosis	Asap1	Neurological
+Multiple sclerosis	Asf1a	Neurological
+Multiple sclerosis	Atf1	Neurological
+Multiple sclerosis	Atp6v1g3	Neurological
+Multiple sclerosis	Atxn1	Neurological
+Multiple sclerosis	B4galt5	Neurological
+Multiple sclerosis	Bach2	Neurological
+Multiple sclerosis	Bak1	Neurological
+Multiple sclerosis	Batf	Neurological
+Multiple sclerosis	Batf3	Neurological
+Multiple sclerosis	Bcas1	Neurological
+Multiple sclerosis	Bcl10	Neurological
+Multiple sclerosis	Bcl2	Neurological
+Multiple sclerosis	Bcl2l11	Neurological
+Multiple sclerosis	Bcl6	Neurological
+Multiple sclerosis	Bcl9l	Neurological
+Multiple sclerosis	Bhlhe40	Neurological
+Multiple sclerosis	Btnl2	Neurological
+Multiple sclerosis	C10ORF204	Neurological
+Multiple sclerosis	C10orf55	Neurological
+Multiple sclerosis	Zfhx3	Neurological
+Multiple sclerosis	C1galt1	Neurological
+Multiple sclerosis	Inava	Neurological
+Multiple sclerosis	Axdnd1	Neurological
+Multiple sclerosis	2410004B18Rik	Neurological
+Multiple sclerosis	Tmem74b	Neurological
+Multiple sclerosis	Timmdc1	Neurological
+Multiple sclerosis	Fam241a	Neurological
+Multiple sclerosis	IRF1-AS1	Neurological
+Multiple sclerosis	BC051142	Neurological
+Multiple sclerosis	SPATA48	Neurological
+Multiple sclerosis	Camk2g	Neurological
+Multiple sclerosis	Card11	Neurological
+Multiple sclerosis	Casp8	Neurological
+Multiple sclerosis	Cbfa2t3	Neurological
+Multiple sclerosis	Cblb	Neurological
+Multiple sclerosis	Cbln2	Neurological
+Multiple sclerosis	Ccdc12	Neurological
+Multiple sclerosis	Ccl22	Neurological
+Multiple sclerosis	Ccr4	Neurological
+Multiple sclerosis	Cd2	Neurological
+Multiple sclerosis	Cd200r1	Neurological
+Multiple sclerosis	Cd226	Neurological
+Multiple sclerosis	CD27-AS1	Neurological
+Multiple sclerosis	Cd28	Neurological
+Multiple sclerosis	Cd40	Neurological
+Multiple sclerosis	Cd48	Neurological
+Multiple sclerosis	Cd5	Neurological
+Multiple sclerosis	CD58	Neurological
+Multiple sclerosis	Cd6	Neurological
+Multiple sclerosis	Cd69	Neurological
+Multiple sclerosis	Cd86	Neurological
+Multiple sclerosis	Cdc37	Neurological
+Multiple sclerosis	Cdh3	Neurological
+Multiple sclerosis	Cdhr3	Neurological
+Multiple sclerosis	CDKN2B-AS1	Neurological
+Multiple sclerosis	Cenpc1	Neurological
+Multiple sclerosis	Cenpo	Neurological
+Multiple sclerosis	Chd7	Neurological
+Multiple sclerosis	Chst12	Neurological
+Multiple sclerosis	Cldn7	Neurological
+Multiple sclerosis	Clec16a	Neurological
+Multiple sclerosis	Clec2i	Neurological
+Multiple sclerosis	CLECL1	Neurological
+Multiple sclerosis	Clstn2	Neurological
+Multiple sclerosis	Cmc1	Neurological
+Multiple sclerosis	Cnr2	Neurological
+Multiple sclerosis	Cog6	Neurological
+Multiple sclerosis	CR1L	Neurological
+Multiple sclerosis	Crtap	Neurological
+Multiple sclerosis	Csf2rb2	Neurological
+Multiple sclerosis	Csgalnact2	Neurological
+Multiple sclerosis	Csmd1	Neurological
+Multiple sclerosis	Ctsh	Neurological
+Multiple sclerosis	Cuedc1	Neurological
+Multiple sclerosis	Cxcr4	Neurological
+Multiple sclerosis	Cxcr5	Neurological
+Multiple sclerosis	Cyp24a1	Neurological
+Multiple sclerosis	Cyp27b1	Neurological
+Multiple sclerosis	BRINP1 /// CCAR2	Neurological
+Multiple sclerosis	Ddah1	Neurological
+Multiple sclerosis	Asap2	Neurological
+Multiple sclerosis	Ddx6	Neurological
+Multiple sclerosis	Diras2	Neurological
+Multiple sclerosis	Dkkl1	Neurological
+Multiple sclerosis	DLEU1	Neurological
+Multiple sclerosis	Dll4	Neurological
+Multiple sclerosis	Dnmt3a	Neurological
+Multiple sclerosis	Dock10	Neurological
+Multiple sclerosis	Dpp4	Neurological
+Multiple sclerosis	DQA1	Neurological
+Multiple sclerosis	Drap1	Neurological
+Multiple sclerosis	Rbm45	Neurological
+Multiple sclerosis	Dsc1	Neurological
+Multiple sclerosis	Egfl6	Neurological
+Multiple sclerosis	Elmo1	Neurological
+Multiple sclerosis	En1	Neurological
+Multiple sclerosis	Enthd1	Neurological
+Multiple sclerosis	Eomes	Neurological
+Multiple sclerosis	Eppk1	Neurological
+Multiple sclerosis	Eps15l1	Neurological
+Multiple sclerosis	Erg	Neurological
+Multiple sclerosis	Espn	Neurological
+Multiple sclerosis	Ets1	Neurological
+Multiple sclerosis	ETV3L	Neurological
+Multiple sclerosis	ETV7	Neurological
+Multiple sclerosis	Evi5	Neurological
+Multiple sclerosis	Exoc2	Neurological
+Multiple sclerosis	Extl2	Neurological
+Multiple sclerosis	Fam167a	Neurological
+Multiple sclerosis	FAM167A-AS1	Neurological
+Multiple sclerosis	Fam167b	Neurological
+Multiple sclerosis	Prxl2b	Neurological
+Multiple sclerosis	Fam221b	Neurological
+Multiple sclerosis	Dipk1a	Neurological
+Multiple sclerosis	Fam71b	Neurological
+Multiple sclerosis	Fam76b	Neurological
+Multiple sclerosis	Fbxo45	Neurological
+Multiple sclerosis	Fbxo48	Neurological
+Multiple sclerosis	FCRL1	Neurological
+Multiple sclerosis	FCRL3	Neurological
+Multiple sclerosis	0610040J01Rik	Neurological
+Multiple sclerosis	LINC01185	Neurological
+Multiple sclerosis	Lekr1	Neurological
+Multiple sclerosis	FLJ34870	Neurological
+Multiple sclerosis	FLJ38122	Neurological
+Multiple sclerosis	Foxg1	Neurological
+Multiple sclerosis	FOXP1	Neurological
+Multiple sclerosis	Fpr3	Neurological
+Multiple sclerosis	Frmd6	Neurological
+Multiple sclerosis	Fuca2	Neurological
+Multiple sclerosis	Fut8	Neurological
+Multiple sclerosis	Galc	Neurological
+Multiple sclerosis	Gata3	Neurological
+Multiple sclerosis	Gfi1	Neurological
+Multiple sclerosis	GGNBP1	Neurological
+Multiple sclerosis	Gimap6	Neurological
+Multiple sclerosis	Gpc5	Neurological
+Multiple sclerosis	Gpr65	Neurological
+Multiple sclerosis	Grb2	Neurological
+Multiple sclerosis	Gtdc1	Neurological
+Multiple sclerosis	Hace1	Neurological
+Multiple sclerosis	Hbs1l	Neurological
+Multiple sclerosis	HHEX	Neurological
+Multiple sclerosis	HLA	Neurological
+Multiple sclerosis	HLA-B	Neurological
+Multiple sclerosis	HLA-DQA1	Neurological
+Multiple sclerosis	HLA-DQA2	Neurological
+Multiple sclerosis	H2-Ab1	Neurological
+Multiple sclerosis	H2-Ea	Neurological
+Multiple sclerosis	H2-Eb2	Neurological
+Multiple sclerosis	Hormad1	Neurological
+Multiple sclerosis	Hoxa1	Neurological
+Multiple sclerosis	Htr3a	Neurological
+Multiple sclerosis	IFI30	Neurological
+Multiple sclerosis	Ifitm6	Neurological
+Multiple sclerosis	Ifngr2	Neurological
+Multiple sclerosis	Igsf23	Neurological
+Multiple sclerosis	Ikzf1	Neurological
+Multiple sclerosis	Ikzf2	Neurological
+Multiple sclerosis	Ikzf3	Neurological
+Multiple sclerosis	Il10rb	Neurological
+Multiple sclerosis	Il12a	Neurological
+Multiple sclerosis	IL12A-AS1	Neurological
+Multiple sclerosis	Il12b	Neurological
+Multiple sclerosis	Il20ra	Neurological
+Multiple sclerosis	Il22ra2	Neurological
+Multiple sclerosis	Il2ra	Neurological
+Multiple sclerosis	Il6	Neurological
+Multiple sclerosis	Il7	Neurological
+Multiple sclerosis	Il7r	Neurological
+Multiple sclerosis	Ildr1	Neurological
+Multiple sclerosis	Ints8	Neurological
+Multiple sclerosis	Ip6k3	Neurological
+Multiple sclerosis	Iqcb1	Neurological
+Multiple sclerosis	Iqgap1	Neurological
+Multiple sclerosis	Irf8	Neurological
+Multiple sclerosis	Itpr1	Neurological
+Multiple sclerosis	Itpr3	Neurological
+Multiple sclerosis	Jade2	Neurological
+Multiple sclerosis	Jak1	Neurological
+Multiple sclerosis	Jarid2	Neurological
+Multiple sclerosis	Jazf1	Neurological
+Multiple sclerosis	Jdp2	Neurological
+Multiple sclerosis	KCNB2	Neurological
+Multiple sclerosis	Kcp	Neurological
+Multiple sclerosis	Vwa8	Neurological
+Multiple sclerosis	Kif1b	Neurological
+Multiple sclerosis	Kif27	Neurological
+Multiple sclerosis	Klf3	Neurological
+Multiple sclerosis	Klf6	Neurological
+Multiple sclerosis	Kpnb1	Neurological
+Multiple sclerosis	L3mbtl3	Neurological
+Multiple sclerosis	Lbh	Neurological
+Multiple sclerosis	Lck	Neurological
+Multiple sclerosis	Lcn6	Neurological
+Multiple sclerosis	Lef1	Neurological
+Multiple sclerosis	Limk2	Neurological
+Multiple sclerosis	LINC00271	Neurological
+Multiple sclerosis	LINC00423	Neurological
+Multiple sclerosis	LINC00603	Neurological
+Multiple sclerosis	LINC00708	Neurological
+Multiple sclerosis	LINC01108	Neurological
+Multiple sclerosis	LINC01146	Neurological
+Multiple sclerosis	LINC01353	Neurological
+Multiple sclerosis	Lipg	Neurological
+Multiple sclerosis	LOC100129203	Neurological
+Multiple sclerosis	LOC100130476	Neurological
+Multiple sclerosis	LOC100131234	Neurological
+Multiple sclerosis	LOC100289506	Neurological
+Multiple sclerosis	LOC100505625	Neurological
+Multiple sclerosis	LOC100506457	Neurological
+Multiple sclerosis	LOC101926892	Neurological
+Multiple sclerosis	LOC101927686	Neurological
+Multiple sclerosis	LOC101928304	Neurological
+Multiple sclerosis	LOC101928435	Neurological
+Multiple sclerosis	LOC101929282	Neurological
+Multiple sclerosis	LOC102723854	Neurological
+Multiple sclerosis	LOC102724874	Neurological
+Multiple sclerosis	LOC132321	Neurological
+Multiple sclerosis	LOC152225	Neurological
+Multiple sclerosis	LOC285501	Neurological
+Multiple sclerosis	LOC285626	Neurological
+Multiple sclerosis	LOC339788	Neurological
+Multiple sclerosis	LOC399715	Neurological
+Multiple sclerosis	LOC645434	Neurological
+Multiple sclerosis	Lpcat1	Neurological
+Multiple sclerosis	Lpp	Neurological
+Multiple sclerosis	Lrrc34	Neurological
+Multiple sclerosis	Ltbr	Neurological
+Multiple sclerosis	Ly86	Neurological
+Multiple sclerosis	Lztfl1	Neurological
+Multiple sclerosis	Maf	Neurological
+Multiple sclerosis	Malt1	Neurological
+Multiple sclerosis	Mamstr	Neurological
+Multiple sclerosis	Manba	Neurological
+Multiple sclerosis	Map3k14	Neurological
+Multiple sclerosis	Mapk1	Neurological
+Multiple sclerosis	Mapk10	Neurological
+Multiple sclerosis	Mapk3	Neurological
+Multiple sclerosis	Maz	Neurological
+Multiple sclerosis	Mcl1	Neurological
+Multiple sclerosis	Mctp1	Neurological
+Multiple sclerosis	Mef2b	Neurological
+Multiple sclerosis	Mef2c	Neurological
+Multiple sclerosis	Mertk	Neurological
+Multiple sclerosis	Met	Neurological
+Multiple sclerosis	Mgat5	Neurological
+Multiple sclerosis	Bud13	Neurological
+Multiple sclerosis	MGC45800	Neurological
+Multiple sclerosis	Mink1	Neurological
+Multiple sclerosis	MIR100HG	Neurological
+Multiple sclerosis	MIR1204	Neurological
+Multiple sclerosis	MIR1208	Neurological
+Multiple sclerosis	MIR4262	Neurological
+Multiple sclerosis	MIR4435-2HG	Neurological
+Multiple sclerosis	MIR4437	Neurological
+Multiple sclerosis	MIR548AN	Neurological
+Multiple sclerosis	Mlana	Neurological
+Multiple sclerosis	Mllt10	Neurological
+Multiple sclerosis	Mmel1	Neurological
+Multiple sclerosis	MMP10	Neurological
+Multiple sclerosis	Mms22l	Neurological
+Multiple sclerosis	Mphosph9	Neurological
+Multiple sclerosis	Mpo	Neurological
+Multiple sclerosis	Mpv17l2	Neurological
+Multiple sclerosis	Mrgpre	Neurological
+Multiple sclerosis	Mthfr	Neurological
+Multiple sclerosis	Myb	Neurological
+Multiple sclerosis	Mybpc3	Neurological
+Multiple sclerosis	Myc	Neurological
+Multiple sclerosis	Mynn	Neurological
+Multiple sclerosis	Myo5b	Neurological
+Multiple sclerosis	Nab1	Neurological
+Multiple sclerosis	Nadk	Neurological
+Multiple sclerosis	Nckap5	Neurological
+Multiple sclerosis	Ncf4	Neurological
+Multiple sclerosis	Ncoa2	Neurological
+Multiple sclerosis	Ncoa5	Neurological
+Multiple sclerosis	Ncor2	Neurological
+Multiple sclerosis	Ndfip1	Neurological
+Multiple sclerosis	Nfkb1	Neurological
+Multiple sclerosis	Nfkbiz	Neurological
+Multiple sclerosis	Ngrn	Neurological
+Multiple sclerosis	Nlrc5	Neurological
+Multiple sclerosis	NLRP11	Neurological
+Multiple sclerosis	Npepps	Neurological
+Multiple sclerosis	Nr1d1	Neurological
+Multiple sclerosis	Nudt12	Neurological
+Multiple sclerosis	Odf3b	Neurological
+Multiple sclerosis	Olig3	Neurological
+Multiple sclerosis	Os9	Neurological
+Multiple sclerosis	Papolg	Neurological
+Multiple sclerosis	Pde3b	Neurological
+Multiple sclerosis	Pde4a	Neurological
+Multiple sclerosis	Pde4b	Neurological
+Multiple sclerosis	Pdzrn4	Neurological
+Multiple sclerosis	Phgdh	Neurological
+Multiple sclerosis	Phkg1	Neurological
+Multiple sclerosis	Phldb1	Neurological
+Multiple sclerosis	Pitpnm2	Neurological
+Multiple sclerosis	Plcl2	Neurological
+Multiple sclerosis	Plek	Neurological
+Multiple sclerosis	Plekhg5	Neurological
+Multiple sclerosis	Plxnc1	Neurological
+Multiple sclerosis	Popdc3	Neurological
+Multiple sclerosis	Pou2af1	Neurological
+Multiple sclerosis	Prdx5	Neurological
+Multiple sclerosis	Prep	Neurological
+Multiple sclerosis	Prickle1	Neurological
+Multiple sclerosis	Prkra	Neurological
+Multiple sclerosis	PRM1	Neurological
+Multiple sclerosis	PRNCR1	Neurological
+Multiple sclerosis	Prr5l	Neurological
+Multiple sclerosis	Pten	Neurological
+Multiple sclerosis	Ptger4	Neurological
+Multiple sclerosis	Ptpn11	Neurological
+Multiple sclerosis	Pus10	Neurological
+Multiple sclerosis	Pvr	Neurological
+Multiple sclerosis	PVT1	Neurological
+Multiple sclerosis	Pxt1	Neurological
+Multiple sclerosis	Rab38	Neurological
+Multiple sclerosis	Rad51b	Neurological
+Multiple sclerosis	Rasgef1a	Neurological
+Multiple sclerosis	Rasgrp1	Neurological
+Multiple sclerosis	Rcl1	Neurological
+Multiple sclerosis	Rcor1	Neurological
+Multiple sclerosis	Rdx	Neurological
+Multiple sclerosis	Reln	Neurological
+Multiple sclerosis	Rfk	Neurological
+Multiple sclerosis	Rgcc	Neurological
+Multiple sclerosis	Rgs1	Neurological
+Multiple sclerosis	Rgs14	Neurological
+Multiple sclerosis	Rgs21	Neurological
+Multiple sclerosis	Rhoh	Neurological
+Multiple sclerosis	Rmi2	Neurological
+Multiple sclerosis	Rnasel	Neurological
+Multiple sclerosis	Gm23815	Neurological
+Multiple sclerosis	Rora	Neurological
+Multiple sclerosis	Rpap2	Neurological
+Multiple sclerosis	RPL5	Neurological
+Multiple sclerosis	Rps6ka5	Neurological
+Multiple sclerosis	Rps6kb1	Neurological
+Multiple sclerosis	Rras2	Neurological
+Multiple sclerosis	Rreb1	Neurological
+Multiple sclerosis	Runx3	Neurological
+Multiple sclerosis	S1pr1	Neurological
+Multiple sclerosis	Sae1	Neurological
+Multiple sclerosis	Samd12	Neurological
+Multiple sclerosis	SATB1-AS1	Neurological
+Multiple sclerosis	Scaf11	Neurological
+Multiple sclerosis	Scamp2	Neurological
+Multiple sclerosis	SETD1A	Neurological
+Multiple sclerosis	Sfmbt1	Neurological
+Multiple sclerosis	Sgcd	Neurological
+Multiple sclerosis	Sgsm2	Neurological
+Multiple sclerosis	Sh2b3	Neurological
+Multiple sclerosis	Sh3bp2	Neurological
+Multiple sclerosis	Sh3gl2	Neurological
+Multiple sclerosis	Shmt1	Neurological
+Multiple sclerosis	Sidt1	Neurological
+Multiple sclerosis	Sla	Neurological
+Multiple sclerosis	Slamf1	Neurological
+Multiple sclerosis	Slamf7	Neurological
+Multiple sclerosis	Slc15a2	Neurological
+Multiple sclerosis	Slc25a36	Neurological
+Multiple sclerosis	SLC2A4RG	Neurological
+Multiple sclerosis	Slc30a7	Neurological
+Multiple sclerosis	Slc44a2	Neurological
+Multiple sclerosis	Slc6a16	Neurological
+Multiple sclerosis	Slc7a10	Neurological
+Multiple sclerosis	Slc7a6os	Neurological
+Multiple sclerosis	Slc9a8	Neurological
+Multiple sclerosis	Slc9b1	Neurological
+Multiple sclerosis	Smarca4	Neurological
+Multiple sclerosis	Smg6	Neurological
+Multiple sclerosis	Socs1	Neurological
+Multiple sclerosis	Sox8	Neurological
+Multiple sclerosis	Sp100	Neurological
+Multiple sclerosis	Spred2	Neurological
+Multiple sclerosis	ST13P4	Neurological
+Multiple sclerosis	Stat3	Neurological
+Multiple sclerosis	Stat4	Neurological
+Multiple sclerosis	Sumf1	Neurological
+Multiple sclerosis	SVIL2P	Neurological
+Multiple sclerosis	Syde2	Neurological
+Multiple sclerosis	Syk	Neurological
+Multiple sclerosis	Tagap1	Neurological
+Multiple sclerosis	Tbx6	Neurological
+Multiple sclerosis	Tcf7	Neurological
+Multiple sclerosis	Tef	Neurological
+Multiple sclerosis	Tert	Neurological
+Multiple sclerosis	Tet2	Neurological
+Multiple sclerosis	Tgfbr3	Neurological
+Multiple sclerosis	Thada	Neurological
+Multiple sclerosis	Themis	Neurological
+Multiple sclerosis	Tll1	Neurological
+Multiple sclerosis	TMEM244	Neurological
+Multiple sclerosis	Tmem47	Neurological
+Multiple sclerosis	Tnfaip3	Neurological
+Multiple sclerosis	Tnfaip8	Neurological
+Multiple sclerosis	Tnfrsf14	Neurological
+Multiple sclerosis	Tnfrsf1a	Neurological
+Multiple sclerosis	Tnfsf14	Neurological
+Multiple sclerosis	Tnip2	Neurological
+Multiple sclerosis	Tnip3	Neurological
+Multiple sclerosis	Tnp2	Neurological
+Multiple sclerosis	Tox2	Neurological
+Multiple sclerosis	Traf3	Neurological
+Multiple sclerosis	Treh	Neurological
+Multiple sclerosis	Trim14	Neurological
+Multiple sclerosis	Trim2	Neurological
+Multiple sclerosis	Trim71	Neurological
+Multiple sclerosis	Tsfm	Neurological
+Multiple sclerosis	Ttc28	Neurological
+Multiple sclerosis	Txk	Neurological
+Multiple sclerosis	Tyk2	Neurological
+Multiple sclerosis	Ubash3b	Neurological
+Multiple sclerosis	Ube2e3	Neurological
+Multiple sclerosis	Ubxn6	Neurological
+Multiple sclerosis	Uck2	Neurological
+Multiple sclerosis	Unk	Neurological
+Multiple sclerosis	Vangl2	Neurological
+Multiple sclerosis	Vav2	Neurological
+Multiple sclerosis	Vcam1	Neurological
+Multiple sclerosis	Vmp1	Neurological
+Multiple sclerosis	Vti1a	Neurological
+Multiple sclerosis	Wdr7	Neurological
+Multiple sclerosis	Wwox	Neurological
+Multiple sclerosis	Ywhag	Neurological
+Multiple sclerosis	Zbtb38	Neurological
+Multiple sclerosis	Zbtb46	Neurological
+Multiple sclerosis	Zbtb7b	Neurological
+Multiple sclerosis	Zc2hc1a	Neurological
+Multiple sclerosis	Zc3hav1	Neurological
+Multiple sclerosis	Zfp36l1	Neurological
+Multiple sclerosis	Zhx3	Neurological
+Multiple sclerosis	Zic1	Neurological
+Multiple sclerosis	Zmiz1	Neurological
+Multiple sclerosis	Zfp217	Neurological
+Multiple sclerosis	Zfp365	Neurological
+Multiple sclerosis	ZNF433	Neurological
+Multiple sclerosis	Zfp438	Neurological
+Multiple sclerosis	Zfp652	Neurological
+Multiple sclerosis	ZNF767P	Neurological
+Multiple sclerosis	Znhit3	Neurological
+Multiple sclerosis	Zpld1	Neurological
+Multiple sclerosis	43891	Neurological
+Multiple sclerosis	Kif21b	Neurological
+Multiple sclerosis	Tmem39a	Neurological
+Multiple sclerosis	Ctla4	Neurological
+Multiple sclerosis	Mettl1	Neurological
+Multiple sclerosis	Aplf	Neurological
+Multiple sclerosis	HLA-DRB	Neurological
+Multiple sclerosis	1110032F04Rik	Neurological
+Multiple sclerosis	Rbm17	Neurological
+Multiple sclerosis	Pkia	Neurological
+Multiple sclerosis	Tbx21	Neurological
+Multiple sclerosis	Kl	Neurological
+Multiple sclerosis	LOC100132735	Neurological
+Multiple sclerosis	Borcs8	Neurological
+Multiple sclerosis	Trib2	Neurological
+Multiple sclerosis	Itga4	Neurological
+Multiple sclerosis	Klhl32	Neurological
+Multiple sclerosis	Sco2	Neurological
+Multiple sclerosis	Tg	Neurological
+Multiple sclerosis	Dleu7	Neurological
+Multiple sclerosis	Fndc1	Neurological
+Multiple sclerosis	Ptprk	Neurological
+Multiple sclerosis	Prm3	Neurological
+Multiple sclerosis	Slamf6	Neurological
+Multiple sclerosis	Lpin3	Neurological
+Multiple sclerosis	Zfp746	Neurological
+Multiple sclerosis	Tbkbp1	Neurological
+Multiple sclerosis	Prm2	Neurological
+Parkinson	Aak1	Neurological
+Parkinson	Acmsd	Neurological
+Parkinson	Alas1	Neurological
+Parkinson	Ank2	Neurological
+Parkinson	Anxa1	Neurological
+Parkinson	Apoe	Neurological
+Parkinson	Arhgap27	Neurological
+Parkinson	Asxl3	Neurological
+Parkinson	Atf6	Neurological
+Parkinson	Dph6	Neurological
+Parkinson	Bag3	Neurological
+Parkinson	Barx1	Neurological
+Parkinson	Bckdk	Neurological
+Parkinson	Bin3	Neurological
+Parkinson	Bmp4	Neurological
+Parkinson	Stap1	Neurological
+Parkinson	Brip1	Neurological
+Parkinson	Bst1	Neurological
+Parkinson	Ctc1	Neurological
+Parkinson	Ldlrad4	Neurological
+Parkinson	Ism1	Neurological
+Parkinson	4930452B06Rik	Neurological
+Parkinson	ODAPH	Neurological
+Parkinson	B230219D22Rik	Neurological
+Parkinson	Tcim	Neurological
+Parkinson	Car8	Neurological
+Parkinson	Cab39l	Neurological
+Parkinson	CAMK2D	Neurological
+Parkinson	CASC16	Neurological
+Parkinson	Ccdc62	Neurological
+Parkinson	Ccdc82	Neurological
+Parkinson	Cd19	Neurological
+Parkinson	Chd9	Neurological
+Parkinson	Chl1	Neurological
+Parkinson	Chrnb1	Neurological
+Parkinson	Clcn3	Neurological
+Parkinson	Clrn3	Neurological
+Parkinson	Cnksr3	Neurological
+Parkinson	Cntn1	Neurological
+Parkinson	Col13a1	Neurological
+Parkinson	Col5a2	Neurological
+Parkinson	Coq7	Neurological
+Parkinson	Crhr1	Neurological
+Parkinson	Crls1	Neurological
+Parkinson	Ctnnd1	Neurological
+Parkinson	Ctsb	Neurological
+Parkinson	Cyp1b1	Neurological
+Parkinson	Daam1	Neurological
+Parkinson	BRINP1 /// CCAR2	Neurological
+Parkinson	Dcun1d1	Neurological
+Parkinson	Ddrgk1	Neurological
+Parkinson	Dgkq	Neurological
+Parkinson	DIRC1	Neurological
+Parkinson	Dlg2	Neurological
+Parkinson	Dmrt2	Neurological
+Parkinson	Dnah17	Neurological
+Parkinson	Dsg3	Neurological
+Parkinson	Dyrk1a	Neurological
+Parkinson	Elovl7	Neurological
+Parkinson	Ercc6l2	Neurological
+Parkinson	Fam126a	Neurological
+Parkinson	Fam171a1	Neurological
+Parkinson	Fam171a2	Neurological
+Parkinson	FAM200B	Neurological
+Parkinson	Fam47e	Neurological
+Parkinson	FAM49B	Neurological
+Parkinson	Fbrsl1	Neurological
+Parkinson	Fcgr2b	Neurological
+Parkinson	Fgd4	Neurological
+Parkinson	Fgf10	Neurological
+Parkinson	Fgf20	Neurological
+Parkinson	Tmem212	Neurological
+Parkinson	FLJ35379	Neurological
+Parkinson	Mroh5	Neurological
+Parkinson	Fyn	Neurological
+Parkinson	Gak	Neurological
+Parkinson	Galc	Neurological
+Parkinson	Gba	Neurological
+Parkinson	GBAP1	Neurological
+Parkinson	Gbf1	Neurological
+Parkinson	Gch1	Neurological
+Parkinson	Gpnmb	Neurological
+Parkinson	Gprin3	Neurological
+Parkinson	GS1-124K5.11	Neurological
+Parkinson	Gxylt1	Neurological
+Parkinson	Hip1r	Neurological
+Parkinson	HLA	Neurological
+Parkinson	HLA-DQA1	Neurological
+Parkinson	H2-Ab1	Neurological
+Parkinson	H2-Ea	Neurological
+Parkinson	H2-Eb2	Neurological
+Parkinson	HLA-DRB6	Neurological
+Parkinson	Hsd17b1	Neurological
+Parkinson	Htr2a	Neurological
+Parkinson	HUSEYO	Neurological
+Parkinson	Igsf9b	Neurological
+Parkinson	Il1r2	Neurological
+Parkinson	Inpp5f	Neurological
+Parkinson	Ip6k2	Neurological
+Parkinson	Itga8	Neurological
+Parkinson	Itpkb	Neurological
+Parkinson	Kansl1	Neurological
+Parkinson	Kcnip3	Neurological
+Parkinson	Kcnip4	Neurological
+Parkinson	Kcns3	Neurological
+Parkinson	Klhdc1	Neurological
+Parkinson	Klhl7	Neurological
+Parkinson	Kpna1	Neurological
+Parkinson	Krtcap2	Neurological
+Parkinson	Lcorl	Neurological
+Parkinson	Lhfpl2	Neurological
+Parkinson	LINC00693	Neurological
+Parkinson	Lmnb1	Neurological
+Parkinson	LOC100131289	Neurological
+Parkinson	TUSC7	Neurological
+Parkinson	LOC642072	Neurological
+Parkinson	Plppr1	Neurological
+Parkinson	Lrrk2	Neurological
+Parkinson	Lsm7	Neurological
+Parkinson	Map3k14	Neurological
+Parkinson	Map4k4	Neurological
+Parkinson	Mapt	Neurological
+Parkinson	MAPT-AS1	Neurological
+Parkinson	Mbnl2	Neurological
+Parkinson	Mccc1	Neurological
+Parkinson	Mdga2	Neurological
+Parkinson	Med12l	Neurological
+Parkinson	Mex3c	Neurological
+Parkinson	Micu3	Neurological
+Parkinson	Mipol1	Neurological
+Parkinson	MIR4697	Neurological
+Parkinson	Mmrn1	Neurological
+Parkinson	MX2	Neurological
+Parkinson	Nckipsd	Neurological
+Parkinson	Ndufaf2	Neurological
+Parkinson	Nod2	Neurological
+Parkinson	Nsf	Neurological
+Parkinson	Nucks1	Neurological
+Parkinson	Oca2	Neurological
+Parkinson	Ogfod2	Neurological
+Parkinson	Pabpn1l	Neurological
+Parkinson	Pam	Neurological
+Parkinson	Paqr3	Neurological
+Parkinson	PARK16	Neurological
+Parkinson	Prkn	Neurological
+Parkinson	Pde10a	Neurological
+Parkinson	Pkp2	Neurological
+Parkinson	PLEKHN1	Neurological
+Parkinson	Pmvk	Neurological
+Parkinson	Prss53	Neurological
+Parkinson	Prdm15	Neurological
+Parkinson	Prdm2	Neurological
+Parkinson	Prickle1	Neurological
+Parkinson	Qser1	Neurological
+Parkinson	Rab29	Neurological
+Parkinson	Retreg3	Neurological
+Parkinson	Rims1	Neurological
+Parkinson	Rit2	Neurological
+Parkinson	Rnf141	Neurological
+Parkinson	Rps12	Neurological
+Parkinson	Rps6kl1	Neurological
+Parkinson	Satb1	Neurological
+Parkinson	Scaf11	Neurological
+Parkinson	Scarb2	Neurological
+Parkinson	Scn3a	Neurological
+Parkinson	Sema4a	Neurological
+Parkinson	Sema5a	Neurological
+Parkinson	SETD1A	Neurological
+Parkinson	Sfxn2	Neurological
+Parkinson	Sh3gl2	Neurological
+Parkinson	Sipa1l2	Neurological
+Parkinson	Slc2a13	Neurological
+Parkinson	Slc41a1	Neurological
+Parkinson	Slc44a4	Neurological
+Parkinson	Slc45a3	Neurological
+Parkinson	Snca	Neurological
+Parkinson	Sorbs3	Neurological
+Parkinson	Sp1	Neurological
+Parkinson	Sppl2b	Neurological
+Parkinson	Sptssb	Neurological
+Parkinson	Srebf1	Neurological
+Parkinson	Stbd1	Neurological
+Parkinson	Stk39	Neurological
+Parkinson	Sv2c	Neurological
+Parkinson	Syt11	Neurological
+Parkinson	Syt17	Neurological
+Parkinson	Syt4	Neurological
+Parkinson	Tas1r2	Neurological
+Parkinson	Tceanc2	Neurological
+Parkinson	Tial1	Neurological
+Parkinson	Tmc3	Neurological
+Parkinson	Tmem163	Neurological
+Parkinson	Tmem175	Neurological
+Parkinson	Tmem229b	Neurological
+Parkinson	Tox3	Neurological
+Parkinson	Tpm1	Neurological
+Parkinson	Trim40	Neurological
+Parkinson	Trps1	Neurological
+Parkinson	TSG1	Neurological
+Parkinson	Ubap2	Neurological
+Parkinson	Ubtf	Neurological
+Parkinson	Unc13b	Neurological
+Parkinson	Usp25	Neurological
+Parkinson	Vamp4	Neurological
+Parkinson	Vps13c	Neurological
+Parkinson	Wnt3	Neurological
+Parkinson	Wnt9a	Neurological
+Parkinson	Zfp64	Neurological
+Parkinson	ZNF184	Neurological
+Parkinson	ZNF396	Neurological
+Parkinson	Zfp608	Neurological
+Parkinson	Zfp646	Neurological
+Parkinson	Zp3	Neurological
+Parkinson	Tlr9	Neurological
+Parkinson	LOC100130911	Neurological
+Parkinson	LOC100288892	Neurological
+Parkinson	Ptpdc1	Neurological
+Parkinson	Stx1b	Neurological
+Parkinson	Cd38	Neurological
+Parkinson	LOC339902	Neurological
+Parkinson	Lrrc37a	Neurological
+Parkinson	Olfr1500	Neurological
+Parkinson	CYP1B1-AS1	Neurological
+Parkinson	Col3a1	Neurological
+Parkinson	LOC100130985	Neurological
+Parkinson	Smarca2	Neurological
+Parkinson	LINC00476	Neurological
+Parkinson	Mrps30	Neurological
+Parkinson	Fndc3b	Neurological
+Parkinson	LOC100132423	Neurological
+Parkinson	LINC00051	Neurological
+Parkinson	GLU	Neurological
+Parkinson	Nupl2	Neurological
+Parkinson	Igsf11	Neurological
+Parkinson	LINC02210	Neurological
+Parkinson	Plekhm1	Neurological
+Parkinson	STH	Neurological
+Parkinson	LAMP3	Neurological
+Parkinson	CDC71	Neurological
+Parkinson	NAA11	Neurological
+Parkinson	Syt10	Neurological
+Parkinson	Kazn	Neurological
+Parkinson	Adamts20	Neurological
+Parkinson	Prrg4	Neurological
+Parkinson	Borcs7	Neurological
+Parkinson	Pdlim2	Neurological
+Parkinson	Rai1	Neurological
+Parkinson	Cers6	Neurological
+Parkinson	CLEC19A	Neurological
+Parkinson	Ldlrad1	Neurological
+Parkinson	Ccnt2	Neurological
+Parkinson	Manea	Neurological
+Parkinson	LOC728728	Neurological
+Parkinson	Tshz2	Neurological
+Parkinson	H2bc7	Neurological
+Parkinson	Ino80c	Neurological
+Parkinson	Kat8	Neurological
+Parkinson	Dnah1	Neurological
