@@ -17,6 +17,11 @@ library(rstatix)
 library(RColorBrewer)
 library(GEOquery)
 library(limma)
+library(gprofiler2)
+library(WGCNA)
+
+#We will also have to download and install manually the CellPlot package which can be obtained from here:https://github.com/dieterich-lab/CellPlot
+library(CellPlot)
 
 #A few simple helper functions
 '%ni%' <- Negate('%in%')
