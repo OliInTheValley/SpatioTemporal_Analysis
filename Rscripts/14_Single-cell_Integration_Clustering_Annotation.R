@@ -249,9 +249,9 @@ scRNA.merge.integrated@meta.data$cell_type_age <-
 DefaultAssay(scRNA.merge.integrated) <- 'RNA'
 #and the default idents to our newly-set up cell_type_age 
 Idents(scRNA.merge.integrated) <- 'cell_type_age'
-#Test used is DESEe2
+#Test used is MAST
 test_to_use <- 'MAST'
-#We also define as the minimal percent a gene needs to be expressed as 10% in at least one of the compared spots (e.g. at least 10% in the transcriptome spots coming from a young cortex)
+#We also define as the minimal percent a gene needs to be expressed as 5% in at least one of the compared cell groups 
 min_pct <- 0.05
 logfc_threshold <- 0.2
 assay_to_use <- 'RNA'
@@ -261,7 +261,7 @@ random.seed <- 42
 #We'll setup a list that will store the results from all cell_types tested
 results_list_scRNA.merge.integrated <- list()
 
-#Now we'll loop over the two cell_types cortex and white matter, perform differential expression analysis and store the results
+#Now we'll loop over the two cell types, perform differential expression analysis and store the results
 for (cell_type_to_test in unique(scRNA.merge.integrated$cell_type)) {
   #We'll set up a temporatory list to store the results tables
   results_list_cell_typeLevel <- list()
@@ -286,7 +286,6 @@ for (cell_type_to_test in unique(scRNA.merge.integrated$cell_type)) {
       verbose = T,
       latent.vars = latent.vars
     )
-  #When Deseq2 is set as test, the output is already corrected for multiple testing
   #We store the genes (currently only in rownames) to a seprate column
   diffmarkers_table$gene_symbol <- row.names(diffmarkers_table)
   #The default padjust method for MAST is Bonferroni correction, which is a valid albeit relatively harsh method for this many genes
