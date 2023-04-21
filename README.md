@@ -40,6 +40,7 @@ GEOquery_2.54.1
 ggplot2_3.3.6  
 ggrepel_0.9.1  
 gplots_3.1.3  
+gprofiler2_0.2.1  
 IRanges_2.20.2  
 limma_3.42.2  
 lsmeans_2.30-0  
@@ -58,4 +59,5 @@ tidyr_1.2.0
 umap_0.2.8.0  
 Vennerable_3.1.0.9000  
 VISION_3.0.0  
+WGCNA_1.70-3  
 zoo_1.8-9  
